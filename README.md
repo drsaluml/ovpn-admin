@@ -38,7 +38,7 @@ You need [Docker](https://docs.docker.com/get-docker/) and [docker-compose](http
 Commands to execute:
 
 ```bash
-git clone https://github.com/flant/ovpn-admin.git
+git clone https://github.com/drsaluml/ovpn-admin.git
 cd ovpn-admin
 ./start.sh
 ```
@@ -56,7 +56,7 @@ Requirements. You need Linux with the following components installed:
 Commands to execute:
 
 ```bash
-git clone https://github.com/flant/ovpn-admin.git
+git clone https://github.com/drsaluml/ovpn-admin.git
 cd ovpn-admin
 ./bootstrap.sh
 ./build.sh
